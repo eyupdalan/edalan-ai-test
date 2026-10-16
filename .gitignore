@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Backend (Python)
+backend/.venv/
+backend/.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Tools çıktıları
+tools/output/
